@@ -6,7 +6,7 @@ using System.IO;
 class Person 
 {
     public int age;     
-	  public Person(int initialAge) 
+    public Person(int initialAge) 
     {
         if(initialAge < 0){age = 0; Console.WriteLine("Age is not valid, setting age to 0.");} 
         age = initialAge;
