@@ -1,5 +1,3 @@
 ```ruby
-
 print "Hello HackerRank!!"
-
 ```
