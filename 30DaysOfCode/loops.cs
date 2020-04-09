@@ -1,4 +1,3 @@
-```csharp
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.Collections;
@@ -21,4 +20,3 @@ class Solution
         Enumerable.Range(1, 10).ToList().ForEach(p => Console.WriteLine($"{n} x {p} = {n * p}"));
     }
 }
-```
