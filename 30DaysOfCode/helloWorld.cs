@@ -1,4 +1,3 @@
-```csharp
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -12,4 +11,3 @@ class Solution
         Console.WriteLine($"Hello, World.\n{input}");
     }
 }
-```
