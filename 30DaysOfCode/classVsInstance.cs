@@ -1,4 +1,3 @@
-```csharp
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -33,4 +32,3 @@ static void Main(String[] args) {
         }
     }
 }
-```
