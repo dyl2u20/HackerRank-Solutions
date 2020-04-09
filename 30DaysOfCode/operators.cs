@@ -1,4 +1,3 @@
-```csharp
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.Collections;
@@ -31,4 +30,3 @@ class Solution
         Console.WriteLine(solve(meal_cost, tip_percent, tax_percent));
     }
 }
-```
