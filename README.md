@@ -14,5 +14,4 @@ I primarily use C# in my solutions.
 ## Disclaimer
 
 While readabilty should always come first when it comes to writing code, I have not applied this for several of my solutions, particularly in C#.
-This is a result of me trying to successfully solve a problem with as few lines as possible, primarily aiming for "one-liner" solutions. 
-I have a lot of fun trying to solve problems this way, especially in C# as it is a very verbose language.
+This is a result of me trying to successfully solve a problem with as few lines as possible, primarily aiming for "one-liner" solutions, which involves a lack of comments; if any. I have a lot of fun trying to solve problems this way, especially in C# as it is a very verbose language.
