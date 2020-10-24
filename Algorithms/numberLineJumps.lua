@@ -6,8 +6,7 @@ function kangaroo(x1, v1, x2, v2)
                 return "YES"
             end
          end
-    
-        return "NO"
+      return "NO"
 end
 
 local fptr = io.open(os.getenv("OUTPUT_PATH"), "w")
